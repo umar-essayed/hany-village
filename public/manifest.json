@@ -1,0 +1,21 @@
+{
+  "name": "قرية هاني للمأكولات البدوية والمشويات",
+  "short_name": "قرية هاني",
+  "description": "تجربة بدوية أصيلة — فرعين بالإسكندرية والقاهرة. مشاوي فاخرة، مندي، خيام بدوية.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#D4A574",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle"],
+  "lang": "ar",
+  "dir": "rtl"
+}
